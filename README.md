@@ -1,4 +1,5 @@
-# Richbalance! ![192539_dollar_hand-drawn_money_moneybag_icon](https://github.com/facecontrol34/RBproject/assets/99085465/e793300d-8cc4-469d-88ba-3bd3ab0f059f)
+# Richbalance! ![1111](https://github.com/facecontrol34/RBproject/assets/99085465/32fa2261-d36c-4bc3-8884-b268beb656c8)
+
 ## Описание
 Приложение, способное обменнивать валюты.
 ## Установка и запуск
